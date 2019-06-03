@@ -1,5 +1,7 @@
-git add * "Adicionando arquivos que serão enviados"
+git add * "Para passar a monitorar um novo arquivo"
 
 git commit -m "Descrição" "Adicionando um commit ao repositorio"
 
 git push "adicionando ao repositorio"
+
+git status "A principal ferramenta utilizada para determinar quais arquivos estão em quais estados"
