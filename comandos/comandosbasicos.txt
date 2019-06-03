@@ -5,3 +5,5 @@ git commit -m "Descrição" "Adicionando um commit ao repositorio"
 git push "adicionando ao repositorio"
 
 git status "A principal ferramenta utilizada para determinar quais arquivos estão em quais estados"
+
+git log "Exibir todos os commits ja feitos"
